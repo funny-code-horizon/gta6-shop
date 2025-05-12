@@ -10,13 +10,11 @@ const ProductGrid = () => {
   const observer = useRef<IntersectionObserver | null>(null);
   const lastProductRef = useRef<HTMLDivElement | null>(null);
 
-  // This function will be called when the last element becomes visible
   const loadMoreProducts = useCallback(() => {
     if (loading || !hasMore) return;
     
     setLoading(true);
     
-    // Simulate API call delay
     setTimeout(() => {
       const currentLength = products.length;
       const nextProducts = productsData.slice(currentLength, currentLength + 8);
@@ -28,10 +26,9 @@ const ProductGrid = () => {
       }
       
       setLoading(false);
-    }, 1500);
+    }, 100);
   }, [loading, hasMore, products.length]);
 
-  // Set up intersection observer
   useEffect(() => {
     if (loading) return;
     
