@@ -19,7 +19,7 @@ const CategoryPage: React.FC<CategoryPageProps> = ({ category, title, descriptio
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <main className="flex-grow pt-12 md:pt-16">
+      <main className="flex-grow pt-4 md:pt-4">
         <ProductGrid 
           category={category} 
           title={title}

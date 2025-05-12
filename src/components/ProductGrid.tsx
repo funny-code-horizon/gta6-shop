@@ -94,11 +94,11 @@ const ProductGrid: React.FC<ProductGridProps> = ({
         </div>
       )}
       
-      {!hasMore && products.length > 0 && (
+      {/* {!hasMore && products.length > 0 && (
         <div className="text-center mt-10">
           <p className="text-white/70">You've reached the end of the products</p>
         </div>
-      )}
+      )} */}
     </section>
   );
 };

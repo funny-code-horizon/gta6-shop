@@ -42,7 +42,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/61-eM4fOlNL._AC_UF1000,1000_QL80_.jpg",
         rating: 5,
         amazonLink: "https://amzn.to/43dIhef",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "2",
@@ -51,7 +51,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/715dHWgBgRL._AC_UF894,1000_QL80_.jpg",
         rating: 4,
         amazonLink: "https://amzn.to/3GKSvLB",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "3",
@@ -78,7 +78,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/71adZk3VJAL._AC_UF894,1000_QL80_.jpg",
         rating: 4,
         amazonLink: "https://amzn.to/4ddBeXe",
-        category: "Displays"
+        category: "Hardware"
     },
     {
         id: "6",
@@ -87,7 +87,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/81LLudr03eL._AC_UF894,1000_QL80_.jpg",
         rating: 5,
         amazonLink: "https://amzn.to/43gClBa",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "7",
@@ -96,7 +96,7 @@ export const productsData = [
         imageUrl: "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&h=600&q=80",
         rating: 5,
         amazonLink: "https://amzn.to/4jU20Xo",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "8",
@@ -105,7 +105,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/61vF4LdktpL._AC_UF1000,1000_QL80_.jpg",
         rating: 4,
         amazonLink: "https://amzn.to/4j0d6J9",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "9",
@@ -114,7 +114,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/71hOhgGLjGL._AC_UF894,1000_QL80_.jpg",
         rating: 5,
         amazonLink: "https://amzn.to/4dixmo6",
-        category: "Audio"
+        category: "Accessories"
     },
     {
         id: "10",
@@ -123,7 +123,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/71xNjrzG69L.jpg",
         rating: 4,
         amazonLink: "https://amzn.to/4ddMwL7",
-        category: "Audio"
+        category: "Accessories"
     },
     {
         id: "11",
@@ -132,7 +132,7 @@ export const productsData = [
         imageUrl: "https://m.media-amazon.com/images/I/71kcAXX1OGL.jpg",
         rating: 5,
         amazonLink: "https://amzn.to/3RW1UlM",
-        category: "Peripherals"
+        category: "Accessories"
     },
     {
         id: "12",
@@ -145,7 +145,7 @@ export const productsData = [
     },
     {
         id: "13",
-        title: "Wireless Gaming Headset for PC, Ps5, Ps4 - Lossless Audio",
+        title: "Wireless Gaming Headset for PC, Ps5, Ps4 - Lossless Accessories",
         price: 29.99,
         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSv1RjL3FH9UZOp0af9bwJEOlRGiiYQ994tA&s",
         rating: 4,
@@ -156,7 +156,7 @@ export const productsData = [
         id: "15",
         title: "TOLANK Michael Franklin | GTA Gaming Poster 12 x 8 inches",
         price: 12.99,
-        imageUrl: "https://images.unsplash.com/photo-1522836924445-4478bdeb860c?auto=format&fit=crop&h=600&q=80",
+        imageUrl: "https://m.media-amazon.com/images/I/71w0Rxt7xeL._AC_UF894,1000_QL80_.jpg",
         rating: 5,
         amazonLink: "https://amzn.to/3Zcr2Zi",
         category: "Decor"
