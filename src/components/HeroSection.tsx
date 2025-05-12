@@ -3,6 +3,13 @@ import React from 'react';
 import { ArrowDown } from 'lucide-react';
 
 const HeroSection = () => {
+  const scrollToProducts = () => {
+    const productSection = document.getElementById('product-grid');
+    if (productSection) {
+      productSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <section className="relative h-[90vh] w-full overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-b from-gta-darker/40 via-gta-dark/60 to-gta-darker z-10"></div>
@@ -18,7 +25,7 @@ const HeroSection = () => {
         </p>
         
         <div className="animate-fade-in" style={{animationDelay: '0.5s'}}>
-          <button className="btn-gta">
+          <button className="btn-gta" onClick={scrollToProducts}>
             Browse Products
           </button>
         </div>
