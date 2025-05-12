@@ -7,7 +7,6 @@ const HeroSection = () => {
     <section className="relative h-[90vh] w-full overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-b from-gta-darker/40 via-gta-dark/60 to-gta-darker z-10"></div>
       
-      {/* Background Video or Image */}
       <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1500673922987-e212871fec22')] bg-cover bg-center"></div>
       
       <div className="relative z-20 max-w-7xl mx-auto h-full flex flex-col items-center justify-center px-4 text-center">
@@ -18,7 +17,7 @@ const HeroSection = () => {
           The ultimate destination for gaming gear and accessories
         </p>
         
-        <div className="animate-fade-in" style={{animationDelay: '0.4s'}}>
+        <div className="animate-fade-in" style={{animationDelay: '0.5s'}}>
           <button className="btn-gta">
             Browse Products
           </button>

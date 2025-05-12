@@ -47,12 +47,12 @@ const Header = () => {
         </div>
 
         <div className="flex items-center space-x-4">
-          <button className="text-white/90 hover:text-gta-accent transition-colors">
+          {/* <button className="text-white/90 hover:text-gta-accent transition-colors">
             <Search className="h-5 w-5" />
           </button>
           <button className="text-white/90 hover:text-gta-accent transition-colors">
             <ShoppingCart className="h-5 w-5" />
-          </button>
+          </button> */}
         </div>
       </div>
     </header>

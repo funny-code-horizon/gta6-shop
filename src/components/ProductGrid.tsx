@@ -57,7 +57,7 @@ const ProductGrid = () => {
   return (
     <section className="py-16 px-4 md:px-10 max-w-7xl mx-auto">
       <h2 className="text-3xl md:text-4xl font-bold mb-2 text-white">Featured Products</h2>
-      <p className="text-white/70 mb-8">Curated gaming gear for the ultimate experience</p>
+      <p className="text-white/70 mb-8">Best GTA 6 gear for the ultimate experience</p>
       
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         {products.map((product, index) => {
