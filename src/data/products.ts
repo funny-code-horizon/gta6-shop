@@ -9,6 +9,15 @@ export const productsData = [
         category: "Games"
     },
     {
+        id: "0.4",
+        title: "GTA 6 Poster",
+        price: 14.80,
+        imageUrl: "https://m.media-amazon.com/images/I/71nhf1nC+WL._AC_SX679_.jpg",
+        rating: 5,
+        amazonLink: "https://amzn.to/4kmTCzB",
+        category: "Decor"
+    },
+    {
         id: "0.5",
         title: "GTA 6 Custom PS5 Controller, Wireless, Compatible with PlayStation 5",
         price: 159.99,
