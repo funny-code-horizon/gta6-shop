@@ -189,15 +189,6 @@ export const productsData = [
         category: "Games"
     },
     {
-        id: "20",
-        title: "Red Dead Redemption 2 – Xbox One",
-        price: 29.18,
-        imageUrl: "https://m.media-amazon.com/images/I/81JuQGZ77WL.jpg",
-        rating: 5,
-        amazonLink: "https://amzn.to/4dxglH3",
-        category: "Games"
-    },
-    {
         id: "21",
         title: "Star Wars: Battlefront - Standard Edition",
         price: 19.99,
