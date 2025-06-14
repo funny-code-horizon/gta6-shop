@@ -196,5 +196,186 @@ export const productsData = [
         rating: 5,
         amazonLink: "https://amzn.to/4dxglH3",
         category: "Games"
+    },
+    {
+        id: "21",
+        title: "Star Wars: Battlefront - Standard Edition",
+        price: 19.99,
+        imageUrl: "https://m.media-amazon.com/images/I/51p23CjL7iL._AC_UF894,1000_QL80_.jpg",
+        rating: 4,
+        amazonLink: "https://amzn.to/4e2XDqX",
+        category: "Games"
+    },
+    {
+        id: "22",
+        title: "Sid Meier's Civilization V",
+        price: 23.99,
+        imageUrl: "https://upload.wikimedia.org/wikipedia/uk/e/e9/Civilization_V.jpg",
+        rating: 5,
+        amazonLink: "https://amzn.to/44imbbW",
+        category: "Games"
+    },
+    {
+        id: "23",
+        title: "Call of Duty: Black Ops 6 - PlayStation 5",
+        price: 69.99,
+        imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202405/2921/4b45cf4b319a65e05f6e4f87a22c7b91d2e7e8aeb247b61f.png",
+        rating: 5,
+        amazonLink: "https://amzn.to/4n3dUAe",
+        category: "Games"
+    },
+    {
+        id: "24",
+        title: "Atomfall - PlayStation 5",
+        price: 49.99,
+        imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202501/0709/b2ee4642335bdc52702636666f5dd4af74a50ea71987f7c9.png",
+        rating: 4,
+        amazonLink: "https://amzn.to/43H13vY",
+        category: "Games"
+    },
+    {
+        id: "25",
+        title: "Star Wars Outlaws - Limited Edition (Amazon Exclusive), PlayStation 5",
+        price: 29.99,
+        imageUrl: "https://content2.rozetka.com.ua/goods/images/original/448181043.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/3ZygV1k",
+        category: "Games"
+    },
+    {
+        id: "26",
+        title: "Minecraft - PlayStation 5",
+        price: 26.49,
+        imageUrl: "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/p/s/ps5-minecraft-2d-pegi-eng.jpg/w_600",
+        rating: 5,
+        amazonLink: "https://amzn.to/3SOSSrh",
+        category: "Games"
+    },
+    {
+        id: "27",
+        title: "The Last of Us Part II Remastered - PlayStation 5",
+        price: 42.30,
+        imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/315718bce7eed62e3cf3fb02d61b81ff1782d6b6cf850fa4.png",
+        rating: 5,
+        amazonLink: "https://amzn.to/4n7yqQg",
+        category: "Games"
+    },
+    {
+        id: "28",
+        title: "Mafia: The Old Country - PlayStation 5",
+        price: 49.99,
+        imageUrl: "https://i.moyo.ua/img/products/6500/53_4000.jpg?1747036935",
+        rating: 5,
+        amazonLink: "https://amzn.to/44cE9N7",
+        category: "Games"
+    },
+    {
+        id: "29",
+        title: "Dead Island 2 - PS5 Game - D a One Edition",
+        price: 29.90,
+        imageUrl: "https://i.moyo.ua/img/products/5233/51_4000.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4n6FgFK",
+        category: "Games"
+    },
+    {
+        id: "30",
+        title: "Sniper: Ghost Warrior 3 Season Pass Edition - PC",
+        price: 17.95,
+        imageUrl: "https://gaming-cdn.com/images/products/684/orig/sniper-ghost-warrior-3-season-pass-edition-season-pass-edition-pc-game-steam-cover.jpg?v=1662546769",
+        rating: 4,
+        amazonLink: "https://amzn.to/4n9ztiH",
+        category: "Games"
+    },
+
+    {
+        id: "31",
+        title: "Call of Duty Modern Warfare III PlayStation 5",
+        price: 35.97,
+        imageUrl: "https://i.moyo.ua/img/gallery/5480/53/1716616_middle.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4mY3ulr",
+        category: "Games"
+    },
+    {
+        id: "32",
+        title: "Undisputed - PlayStation 5",
+        price: 41.90,
+        imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/b9934de21d70f1b4f3b56dff838901eb46c32941a36ec4e6.png",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/3Zvvhj5",
+        category: "Games"
+    },
+    {
+        id: "33",
+        title: "The Walking Dead: Destinies - PlayStation 5",
+        price: 29.20,
+        imageUrl: "https://m.media-amazon.com/images/I/81TgwGEyorL._UF1000,1000_QL80_.jpg",
+        rating: 4,
+        amazonLink: "https://amzn.to/43WQd3F",
+        category: "Games"
+    },
+    {
+        id: "34",
+        title: "Resident Evil 4 - PS5",
+        price: 19.93,
+        imageUrl: "https://retromagaz.com/uploads/products/1e/13/site_f5edki2hs_c5766801.png",
+        rating: 5,
+        amazonLink: "https://amzn.to/3SQPcVO",
+        category: "Games"
+    },
+    {
+        id: "35",
+        title: "Tropico 6 - PlayStation 4",
+        price: 18.80,
+        imageUrl: "https://image.api.playstation.com/vulcan/img/cfn/11307JEu-HYaa6ffNiWxzBN2TEM1Sih0FQvxiHMM5UVBY8QYrDq0cOsYmsUrBEt9nxzUEpl38PpfalE-DNfDddjUSAgUlK4r.png",
+        rating: 4,
+        amazonLink: "https://amzn.to/43JHJyc",
+        category: "Games"
+    },
+    {
+        id: "36",
+        title: "Madden NFL 25 - PlayStation 5",
+        price: 24.88,
+        imageUrl: "https://m.media-amazon.com/images/I/71zh1RJxylL._UF1000,1000_QL80_.jpg",
+        rating: 5,
+        amazonLink: "https://amzn.to/4kGiwdN",
+        category: "Games"
+    },
+    {
+        id: "37",
+        title: "Metro Exodus: Complete Edition - PlayStation 5",
+        price: 23.97,
+        imageUrl: "https://content.rozetka.com.ua/goods/images/big/264808994.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/3STy8P8",
+        category: "Games"
+    },
+    {
+        id: "38",
+        title: "FIFA 23 - PlayStation 5",
+        price: 19.98,
+        imageUrl: "https://i-gamer.ua/upload/iblock/fc0/62ebb00c1b4d3_fifa23_ps53dpftmulti.jpg",
+        rating: 5,
+        amazonLink: "https://amzn.to/4kP4qao",
+        category: "Games"
+    },
+    {
+        id: "39",
+        title: "Fortnite: The Last Laugh Bundle - PlayStation 5",
+        price: 113.00,
+        imageUrl: "https://apple-mania.com.ua/media/catalog/product/cache/e026f651b05122a6916299262b60c47d/f/o/fortnite_the_last_laugh_bundle_vaucher_ps5.webp",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4jUgg1F",
+        category: "Games"
+    },
+    {
+        id: "40",
+        title: "Sniper Elite 5 (PS4)",
+        price: 38.50,
+        imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202202/2116/59jHCjMBRhuRhPUKUUy2gkNd.png",
+        rating: 5,
+        amazonLink: "https://amzn.to/3HA7xnQ",
+        category: "Games"
     }
 ];
