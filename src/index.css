@@ -44,7 +44,7 @@
 
 @layer utilities {
   .gta-card {
-    @apply bg-gta-dark border border-gta-accent/20 rounded-lg overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-gta-accent/20 hover:-translate-y-1;
+    @apply bg-gta-dark border-2 border-gta-accent/20 rounded-lg overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-gta-accent/20 hover:-translate-y-1;
   }
 
   .neon-border {

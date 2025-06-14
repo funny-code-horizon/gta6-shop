@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { ArrowDown } from 'lucide-react';
 
@@ -31,8 +30,10 @@ const HeroSection = () => {
         </div>
       </div>
       
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20 animate-bounce">
-        <ArrowDown className="h-10 w-10 text-white/70" />
+      <div className="absolute bottom-8 left-[calc(50%-20px)] transform -translate-x-1/2 z-20 animate-bounce">
+        <button onClick={scrollToProducts} aria-label="Scroll to Products">
+          <ArrowDown className="h-10 w-10 text-white/70" />
+        </button>
       </div>
     </section>
   );

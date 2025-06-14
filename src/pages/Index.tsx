@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
@@ -15,7 +14,9 @@ const Index = () => {
       <Header />
       <main className="flex-grow">
         <HeroSection />
-        <ProductGrid />
+        <section id="products">
+          <ProductGrid />
+        </section>
       </main>
       <Footer />
     </div>
