@@ -377,5 +377,478 @@ export const productsData = [
         rating: 5,
         amazonLink: "https://amzn.to/3HA7xnQ",
         category: "Games"
+    },
+    {
+        id: 41,
+        title: "MSI GeForce RTX 3060 Ventus 2X OC 12GB",
+        price: 315.00,
+        imageUrl: "https://m.media-amazon.com/images/I/71tduSp8ooL._AC_SX679_.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4kFbzJg",
+        category: "Hardware"
+    },
+    {
+        id: 42,
+        title: "ASUS Dual GeForce RTX 4060 Ti 8GB OC",
+        price: 379.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4j_3vUgfvmBpQ23HgMUrDCPRglnvb7BhIg&s",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/3Iuof8p",
+        category: "Hardware"
+    },
+
+    // ==== CPUs ================================================================
+    {
+        id: 43,
+        title: "AMD Ryzen 7 7800X3D 8-Core 5 GHz",
+        price: 341.00,
+        imageUrl: "https://artline.ua/storage/images/products/13224/gallery/161634/gallery_1684091016748307_0.webp",
+        rating: 5,
+        amazonLink: "https://amzn.to/40cXVFZ",
+        category: "Hardware"
+    },
+    {
+        id: 44,
+        title: "Intel Core i9-14900K 24-Core 6 GHz",
+        price: 549.99,
+        imageUrl: "https://m.media-amazon.com/images/I/619ytLAytAL._UF894,1000_QL80_.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/44ZJxDD",
+        category: "Hardware"
+    },
+    {
+        id: 45,
+        title: "AMD Ryzen 9 5950X 16-Core 4.9 GHz",
+        price: 549.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61ISSSA+x+L.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/4eNIOJa",
+        category: "Hardware"
+    },
+    {
+        id: 46,
+        title: "Intel Core i5-14600K 14-Core 5.3 GHz",
+        price: 319.99,
+        imageUrl: "https://img.telemart.ua/538275-687333-product_popup/intel-core-i5-14600k-3553ghz-24mb-s1700-box-bx8071514600k.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/3IoKjRX",
+        category: "Hardware"
+    },
+
+    // ==== Motherboards ========================================================
+    {
+        id: 47,
+        title: "ASUS ROG Strix B650E-E Gaming WiFi",
+        price: 329.99,
+        imageUrl: "https://m.media-amazon.com/images/I/81vhljs5vTL._UF894,1000_QL80_.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/4eQLxBy",
+        category: "Hardware"
+    },
+    {
+        id: 48,
+        title: "MSI MAG Z790 Tomahawk MAX WiFi",
+        price: 269.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDtYvJOlsIHq11HvpHa5sHrUKNiOIgF1JmQ&s",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4eNn6Vr",
+        category: "Hardware"
+    },
+    {
+        id: 49,
+        title: "GIGABYTE B550 AORUS Elite V2",
+        price: 139.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61NKNP-r1ML.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/44QQCFt",
+        category: "Hardware"
+    },
+    {
+        id: 50,
+        title: "ASRock X670E Taichi Lite",
+        price: 399.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lNNzx1q9yYsvLHCiPDCsJ0ZCwW7BDvrwkQ&s",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/40PvE8w",
+        category: "Hardware"
+    },
+
+    // ==== Memory (RAM) ========================================================
+    {
+        id: 51,
+        title: "CORSAIR Vengeance RGB DDR5 32 GB 6000 CL36",
+        price: 129.99,
+        imageUrl: "https://hotline.ua/img/tx/529/5295355385.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/4628bEK",
+        category: "Hardware"
+    },
+    {
+        id: 52,
+        title: "Kingston Fury Beast DDR4 32 GB 3600 CL18",
+        price: 94.99,
+        imageUrl: "https://hotline.ua/img/tx/528/5282674975.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/4kEWaJ3",
+        category: "Hardware"
+    },
+    {
+        id: 53,
+        title: "TEAMGROUP T-Force Delta RGB DDR5 32 GB 7200 CL34",
+        price: 229.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLwW4PvJczDCROvSLwn0H9OzSvFLeByEzzw&s",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/4kGz4lk",
+        category: "Hardware"
+    },
+
+    // ==== SSD / Storage =======================================================
+    {
+        id: 54,
+        title: "Samsung 990 PRO 2 TB PCIe 4.0 NVMe SSD",
+        price: 159.99,
+        imageUrl: "https://content2.rozetka.com.ua/goods/images/big/348923699.jpg",
+        rating: 4.9,
+        amazonLink: "https://amzn.to/3U8cSp9",
+        category: "Hardware"
+    },
+    {
+        id: 55,
+        title: "Crucial T705 4 TB PCIe 5.0 NVMe SSD",
+        price: 489.99,
+        imageUrl: "https://m.media-amazon.com/images/I/51dhbsC8C4L._UF894,1000_QL80_.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/3TD3SZ6",
+        category: "Hardware"
+    },
+    {
+        id: 56,
+        title: "Seagate FireCuda 530 2 TB NVMe SSD",
+        price: 269.99,
+        imageUrl: "https://hotline.ua/img/tx/521/521261025_s265.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/3IsHQ8V",
+        category: "Hardware"
+    },
+
+    // ==== Power Supplies ======================================================
+    {
+        id: 57,
+        title: "Seasonic Focus GX-850 (ATX 3.0) 80+ Gold",
+        price: 139.99,
+        imageUrl: "https://content1.rozetka.com.ua/goods/images/big/444878693.jpg",
+        rating: 4.9,
+        amazonLink: "https://amzn.to/3IohlS3",
+        category: "Hardware"
+    },
+    {
+        id: 58,
+        title: "CORSAIR RM850x SHIFT 80+ Gold",
+        price: 164.99,
+        imageUrl: "https://m.media-amazon.com/images/I/81OwObzrzLL.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/4lB5q23",
+        category: "Hardware"
+    },
+    {
+        id: 59,
+        title: "EVGA SuperNOVA 1000 G7 80+ Gold",
+        price: 229.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMWqDgyugz2_Y4iA9S024agLuwTdRFtAtTA&s",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/40cbPZ2",
+        category: "Hardware"
+    },
+
+    // ==== Cooling =============================================================
+    {
+        id: 60,
+        title: "Cooler Master Hyper 212 Halo Black",
+        price: 49.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9MFLfyR7S5MtF56V6Fv0yRWiRhlYU3lJyw&s",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4lSVocu",
+        category: "Hardware"
+    },
+    {
+        id: 61,
+        title: "Noctua NH-D15 chromax.black",
+        price: 109.95,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NGv3xM2eTBa42WX5i9NJUzO3cW9H-lhXBg&s",
+        rating: 4.9,
+        amazonLink: "https://amzn.to/4eJeuPK",
+        category: "Hardware"
+    },
+
+    // ==== Peripherals & Monitors =============================================
+    {
+        id: 62,
+        title: "Elgato Stream Deck MK.2 (15-key)",
+        price: 149.99,
+        imageUrl: "https://smart-gadget.club/image/cache/catalog/Products/fun/Elgato-Stream-Deck-MK2/elgato-stream-deck-1-800x800.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/4lrUPqj",
+        category: "Hardware"
+    },
+    {
+        id: 63,
+        title: "SteelSeries Arctis Nova Pro Wireless Headset",
+        price: 349.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61Eqdt502lL.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/3GpLCzw",
+        category: "Hardware"
+    },
+    {
+        id: 64,
+        title: "ASUS ROG Swift PG27AQN 27″ 360 Hz Monitor",
+        price: 899.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-BBcV8915MdYfDKCzu04x-ZgFdGrJ0yxPw&s",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/4nKUpg3",
+        category: "Hardware"
+    },
+    {
+        id: 65,
+        title: "Turtle Beach Recon 70 Gaming Headset",
+        price: 39.99,
+        imageUrl: "https://m.media-amazon.com/images/I/6197fLTJXIL._UF894,1000_QL80_.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/44ONYzX",
+        category: "Hardware"
+    },
+    {
+        id: 66,
+        title: "Xbox Elite Wireless Controller Series 2 – Black",
+        price: 179.99,
+        imageUrl: "https://m.media-amazon.com/images/I/717XTm0moDL._UF1000,1000_QL80_.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4lSZLEl",
+        category: "Accessories"
+    },
+    {
+        id: 67,
+        title: "HyperX Cloud II 7.1 Gaming Headset",
+        price: 79.99,
+        imageUrl: "https://m.media-amazon.com/images/I/71ltsViEA8L._UF894,1000_QL80_.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/3TCGIlG",
+        category: "Accessories"
+    },
+    {
+        id: 68,
+        title: "VersionTECH Wired RGB Gaming Mouse",
+        price: 9.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61pDShoLXqL._UF894,1000_QL80_.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/3Ugk6rb",
+        category: "Accessories"
+    },
+    {
+        id: 69,
+        title: "Logitech G502 HERO High-Performance Gaming Mouse",
+        price: 39.99,
+        imageUrl: "https://m.media-amazon.com/images/I/612np2rcdBL._UF350,350_QL80_.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/3U78DKC",
+        category: "Accessories"
+    },
+    {
+        id: 70,
+        title: "SAMSUNG Galaxy S21 FE 5G Cell Phone",
+        price: 29.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61k8TZkmYCL._UF350,350_QL80_.jpg",
+        rating: 4.9,
+        amazonLink: "https://amzn.to/4lO3kLR",
+        category: "Accessories"
+    },
+    {
+        id: 71,
+        title: "PowerA Joy-Con Charging Dock (Nintendo Switch)",
+        price: 24.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQAkm0LyXoKbxw2dYhWvOmkYYg-tN1dhzpA&s",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/44rOlBB",
+        category: "Accessories"
+    },
+    {
+        id: 72,
+        title: "Razer BlackShark V2 Pro (2023)",
+        price: 179.99,
+        imageUrl: "https://m.media-amazon.com/images/I/7185qYEwIEL.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/3IoeEjv",
+        category: "Accessories"
+    },
+    {
+        id: 73,
+        title: "SteelSeries Arctis Nova Pro Wireless",
+        price: 379.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61Eqdt502lL.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4ll7V8B",
+        category: "Accessories"
+    },
+    {
+        id: 74,
+        title: "HyperX Pulsefire Haste 2 Wireless Mouse",
+        price: 79.99,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzhcfpEhwTISZyIgx4zU0snINJGOnEb8mhA&s",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4eT9ZT2",
+        category: "Accessories"
+    },
+    {
+        id: 75,
+        title: "Logitech G PRO X Superlight 2 Mouse",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/51Cps60NQpL.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/44KnoYS",
+        category: "Accessories"
+    },
+    {
+        id: 76,
+        title: "ASUS ROG Azoth 75 % Wireless DIY Keyboard",
+        price: 249.99,
+        imageUrl: "https://m.media-amazon.com/images/I/81ykzmz6KZL._UF894,1000_QL80_.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/3GIPLOU",
+        category: "Keyboards"
+    },
+    {
+        id: 77,
+        title: "Corsair Dark Core RGB Pro SE Mouse",
+        price: 99.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61RdgVQ43TL._UF894,1000_QL80_.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4lrahmg",
+        category: "Accessories"
+    },
+    {
+        id: 78,
+        title: "SanDisk 1 TB microSDXC – Nintendo Switch Licensed",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/71o2uQUy5fL.jpg",
+        rating: 4.9,
+        amazonLink: "https://amzn.to/4nNlcIu",
+        category: "Accessories"
+    },
+    {
+        id: 79,
+        title: "Meta Quest 2 Elite Strap with Battery",
+        price: 129.99,
+        imageUrl: "https://m.media-amazon.com/images/I/51HrNiP2znL.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/3IpYGFu",
+        category: "Accessories"
+    },
+    {
+        id: 80,
+        title: "Elgato Wave 3 USB Condenser Mic",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61KjhEX33JL._UF894,1000_QL80_.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/4nTyXFV",
+        category: "Accessories"
+    },
+    {
+        id: 81,
+        title: "Thrustmaster T-LCM Load-Cell Pedals",
+        price: 199.99,
+        imageUrl: "https://m.media-amazon.com/images/I/81yNYiSAhuL.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/46EAidi",
+        category: "Accessories"
+    },
+    {
+        id: 82,
+        title: "PowerA Enhanced Wired Controller (Switch)",
+        price: 27.99,
+        imageUrl: "https://m.media-amazon.com/images/I/81VM99ycUwL._UF1000,1000_QL80_.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/40iWl5v",
+        category: "Accessories"
+    },
+    {
+        id: 83,
+        title: "Logitech G29 Driving Force Wheel & Pedals",
+        price: 279.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61IwZwlTopL._UF1000,1000_QL80_.jpg",
+        rating: 4.7,
+        amazonLink: "https://amzn.to/4lSfYJZ",
+        category: "Accessories"
+    },
+    {
+        id: 84,
+        title: "Razer Wolverine V2 Chroma (Xbox/PC)",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/71fAlgJnP5L._UF1000,1000_QL80_.jpg",
+        rating: 4.4,
+        amazonLink: "https://amzn.to/4lB7jvF",
+        category: "Accessories"
+    },
+    {
+        id: 85,
+        title: "Samsung 990 PRO 2 TB NVMe SSD (Heatsink)",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61qidDdfgRL._UF894,1000_QL80_.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/3GLEvRT",
+        category: "Accessories"
+    },
+    {
+        id: 86,
+        title: "Corsair HS80 RGB Wireless Headset",
+        price: 149.99,
+        imageUrl: "https://m.media-amazon.com/images/I/31AGbxDP6PL.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/4nTz1FF",
+        category: "Accessories"
+    },
+    {
+        id: 87,
+        title: "Turtle Beach Stealth Pro Wireless Headset",
+        price: 329.99,
+        imageUrl: "https://m.media-amazon.com/images/I/71mnS3WITIL.jpg",
+        rating: 4.4,
+        amazonLink: "https://amzn.to/3IsJMOJ",
+        category: "Accessories"
+    },
+    {
+        id: 88,
+        title: "Govee RGBIC Gaming Rope Light (10 ft)",
+        price: 69.99,
+        imageUrl: "https://m.media-amazon.com/images/I/713yIh9bdQL._UF894,1000_QL80_.jpg",
+        rating: 4.5,
+        amazonLink: "https://amzn.to/3TCHcbu",
+        category: "Accessories"
+    },
+    {
+        id: 89,
+        title: "NZXT Puck Headset Mount & Cable Organizer",
+        price: 19.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61oGc-ZEjSL._UF894,1000_QL80_.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4lPfqEq",
+        category: "Accessories"
+    },
+    {
+        id: 90,
+        title: "Anker PowerLine+ USB-C to USB 3.0 (3 ft)",
+        price: 12.99,
+        imageUrl: "https://m.media-amazon.com/images/I/61NybZf4P9L._UF1000,1000_QL80_.jpg",
+        rating: 4.8,
+        amazonLink: "https://amzn.to/44LlYx2",
+        category: "Accessories"
+    },
+    {
+        id: 91,
+        title: "Elgato Stream Deck Plus (8 Dials)",
+        price: 199.99,
+        imageUrl: "https://m.media-amazon.com/images/I/31oPaAlexKL.jpg",
+        rating: 4.6,
+        amazonLink: "https://amzn.to/4eXwE0j",
+        category: "Accessories"
     }
 ];
