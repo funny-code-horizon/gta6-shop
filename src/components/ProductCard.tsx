@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'lucide-react';
 
@@ -22,7 +21,7 @@ const ProductCard: React.FC<ProductProps> = ({
   category
 }) => {
   return (
-    <div className="gta-card group">
+    <div className="gta-card group transition-shadow duration-300 hover:shadow-xl hover:shadow-gta-accent/50">
       <a href={amazonLink} target="_blank" rel="noopener noreferrer" className="block h-full">
         <div className="relative aspect-square overflow-hidden bg-gradient-to-br from-gta-darker to-gta-dark">
           <img 
